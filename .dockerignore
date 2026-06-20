@@ -1,0 +1,8 @@
+.git
+.env
+php-server.*.log
+uploads/*
+!uploads/.gitkeep
+!uploads/checked/
+uploads/checked/*
+!uploads/checked/.gitkeep

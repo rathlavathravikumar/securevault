@@ -1,0 +1,7 @@
+/.env
+/uploads/*
+!/uploads/.gitkeep
+!/uploads/checked/
+/uploads/checked/*
+!/uploads/checked/.gitkeep
+/php-server.*.log
